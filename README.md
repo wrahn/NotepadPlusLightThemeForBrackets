@@ -1,4 +1,4 @@
-Notepad++ theme for Brackets 
+Notepad++ (light) theme for Brackets
 ==========================
 
 How to Install
