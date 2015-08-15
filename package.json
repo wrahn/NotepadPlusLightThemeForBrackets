@@ -1,13 +1,13 @@
 {
     "title": "Notepad++ Theme (Light)",
     "name": "notepadpluslight",
-    "description": "Notepad++ Theme for Brackets",
+    "description": "Notepad++ (Light) Theme for Brackets",
     "version": "1.0.4",
     "author": "Essam Bahassan <essam.soft@gmail.com>",
-    "homepage": "https://github.com/EssamManzilak/NotepadPlusThemeForBrackets",
+    "homepage": "https://github.com/wrahn/NotepadPlusThemeForBrackets",
     "repository": {
         "type": "git",
-        "url": "git://github.com/EssamManzilak/NotepadPlusThemeForBrackets.git"
+        "url": "git://github.com/wrahn/NotepadPlusThemeForBrackets.git"
     },
     "keywords": [
         "themes",
