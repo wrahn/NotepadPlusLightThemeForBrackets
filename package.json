@@ -2,7 +2,7 @@
     "title": "Notepad++ Theme (Light)",
     "name": "notepadpluslight",
     "description": "Notepad++ (Light) Theme for Brackets. Based on Essam Bahassan's original theme, but with extra changes.",
-    "version": "1.0",
+    "version": "1.0.4",
     "author": "Wilhelm Rahn",
     "homepage": "https://github.com/wrahn/NotepadPlusLightThemeForBrackets",
     "repository": {
